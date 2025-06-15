@@ -9,9 +9,8 @@ O desafio consiste em desenvolver um programa Java que receba dois números inte
 ### Regras do sistema
 
 - O programa deve receber **dois parâmetros inteiros** via linha de comando.
-- Se o **primeiro número for menor que o segundo**, o programa imprimirá a quantidade de interações com base na diferença entre os dois números.  
-  Exemplo de saída para entrada `12 30`:
-
+- Se o **primeiro número for menor que o segundo**, o programa imprimirá a quantidade de interações com base na diferença entre os dois números.
+   
 - Se o **primeiro número for maior que o segundo**, o sistema deve lançar a **exceção customizada** `ParametrosInvalidosException` com a mensagem: **O segundo parâmetro deve ser maior que o primeiro**
 
 
